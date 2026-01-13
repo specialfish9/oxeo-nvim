@@ -11,8 +11,8 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name="miasma"
-let g:colors_name="miasma"
+let colors_name="oxeo"
+let g:colors_name="oxeo"
 
 hi Boolean guifg=#78834b guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi ColorColumn guifg=NONE guibg=#222222 guisp=NONE blend=NONE gui=NONE
@@ -311,7 +311,7 @@ hi mustacheVariableUnescape guifg=#685742 guibg=NONE guisp=NONE blend=NONE gui=N
 hi netrwClassify guifg=#666666 guibg=NONE guisp=NONE blend=NONE gui=bold
 hi netrwExe guifg=#685742 guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi NonText guifg=#666666 guibg=NONE guisp=NONE blend=NONE gui=bold
-hi Normal guifg=#D7C483 guibg=#222222 guisp=NONE blend=NONE gui=NONE
+hi Normal guifg=#D7C483 guibg=#FFFFFF22 guisp=NONE blend=NONE gui=NONE
 hi Number guifg=#78824b guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi NvimInternalError guifg=#1c1c1c guibg=#b36d43 guisp=NONE blend=NONE gui=NONE
 hi phpIdentifier guifg=#b36d43 guibg=NONE guisp=NONE blend=NONE gui=NONE
